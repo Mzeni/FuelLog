@@ -1,0 +1,18 @@
+.tab{
+    display: flex;
+    align-content: center;
+    justify-content: space-between;
+    margin: 30px;
+}
+.button1{
+    padding: 30px;
+    background-color: red;
+}
+.button2{
+    padding: 30px;
+    background-color: greenyellow;
+}
+.button3{
+    padding: 30px;
+    background-color: lightseagreen;
+}
